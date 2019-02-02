@@ -1,0 +1,73 @@
+.jumbotron{
+	background-image: url(https://images.pexels.com/photos/696680/pexels-photo-696680.jpeg?cs=srgb&dl=background-black-clouds-696680.jpg&fm=jpg);
+    width: 100%;
+    height: 100%;
+    background-position: center;
+    background-size: cover;
+}
+#form{
+	padding-bottom: 5rem;
+}
+#form .form-control {
+
+    background-color: transparent;
+    
+    border-radius: 30px;
+    color: #888;
+    font-size: 11px;
+    font-weight: 600;
+    height: 50px;
+    text-align: center;
+    width: 70% !important;
+    background: #fff;
+  	padding-right: 10px;
+
+}
+
+#form .btn {
+	border: 1px solid #CCC !important;
+    background: #fff;
+    border: 0;
+    border-radius: 0;
+    height: 50px;
+    width: 30%;
+    transition: 0.3s;
+    color: #ccc;
+    border-radius: 30px;
+
+}
+
+#form ul {
+
+    
+    margin-top: 40px;
+    margin-bottom: 0;
+    display: flex;
+
+align-items: center;
+
+justify-content: center;
+
+text-align: center;
+
+}
+
+#form ul li {
+
+    background: #fff;
+    border-radius: 50px;
+    float: left;
+    height: 35px;
+    line-height: 35px;
+    margin-left: 10px;
+    margin-right: 10px;
+    width: 35px;
+    transition: 0.3s;
+
+}
+
+#form ul li .fa {
+
+    color: #ccc;
+
+}
